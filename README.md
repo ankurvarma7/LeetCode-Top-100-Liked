@@ -7,3 +7,4 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[78.Subsets](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/78.%20Subsets.py3)|Backtracking|O(2^N*N)|O(N)
 |[543.Diameter of Binary Tree](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/543.%20Diameter%20of%20Binary%20Tree.py3)|Post Order Traversal in Tree|O(N)|O(N)
 |[234.Palindrome Linked List](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/234.%20Palindrome%20Linked%20List.py3)|Getting mid node of LL and its subsequent reversal|O(N)|O(1)
+|[32.Longest Valid Parentheses](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/32.%20Longest%20Valid%20Parentheses.py3)|Dynamic Programming|O(N)|O(N)
