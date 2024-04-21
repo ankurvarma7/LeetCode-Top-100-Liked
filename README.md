@@ -12,3 +12,4 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[279. Perfect Squares](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/279.%20Perfect%20Squares.py3)|Dynamic Programming|O(N^(3/2))|O(N)
 |[560. Subarray Sum Equals K](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/560.%20Subarray%20Sum%20Equals%20K.py3)|Prefix Sum with Hashmap|O(N)|O(N)
 |[31.Next Permutation](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/31.%20Next%20Permutation.py3)|Miscellaneous|O(N^2}|O(1)
+|[160.Intersection of Two Linked Lists](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/160.%20Intersection%20of%20Two%20Linked%20Lists.py3)|Miscellaneous|O(N+M)|O(1)
