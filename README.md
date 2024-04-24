@@ -13,5 +13,6 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[560. Subarray Sum Equals K](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/560.%20Subarray%20Sum%20Equals%20K.py3)|Prefix Sum with Hashmap|O(N)|O(N)
 |[31.Next Permutation](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/31.%20Next%20Permutation.py3)|Miscellaneous|O(N^2}|O(1)
 |[160.Intersection of Two Linked Lists](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/160.%20Intersection%20of%20Two%20Linked%20Lists.py3)|Miscellaneous|O(N+M)|O(1)
-|[1. Two Sum](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/1.%20Two%20Sum.py3)|Miscellaneous|O(N)|O(N)
-|[763. Partition Labels](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/763.%20Partition%20Labels.py3)|Greedy|O(N)|O(N)
+|[1.Two Sum](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/1.%20Two%20Sum.py3)|Miscellaneous|O(N)|O(N)
+|[763.Partition Labels](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/763.%20Partition%20Labels.py3)|Greedy|O(N)|O(N)
+|[131.Palindrome Partitioning](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/131.%20Palindrome%20Partitioning.py3)|Backtracking|O((2^N)*N)|O(N^2)
