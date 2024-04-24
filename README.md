@@ -16,3 +16,4 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[1.Two Sum](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/1.%20Two%20Sum.py3)|Miscellaneous|O(N)|O(N)
 |[763.Partition Labels](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/763.%20Partition%20Labels.py3)|Greedy|O(N)|O(N)
 |[131.Palindrome Partitioning](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/131.%20Palindrome%20Partitioning.py3)|Backtracking|O((2^N)*N)|O(N^2)
+|[84. Largest Rectangle in Histogram](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/84.%20Largest%20Rectangle%20in%20Histogram.py3)|Monotonous stack|O(N)|O(N)
