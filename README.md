@@ -21,3 +21,4 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[56.Merge Intervals](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/56.%20Merge%20Intervals.py3)|Greedy|O(Nlog(N))|O(N) or O(log N) depending on sorting algo
 |[416.Partition Equal Subset Sum](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/416.%20Partition%20Equal%20Subset%20Sum.py3)|Dynamic Programming|O(N^2)|O(N^2)
 |[21.Merge Two Sorted Lists](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/21.%20Merge%20Two%20Sorted%20Lists.py3)|Linked List traversal|O(N+M)|O(1)
+|[64.Minimum Path Sum](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/64.%20Minimum%20Path%20Sum.py3)|Dynamic Programming|O(N^2)|O(N^2)
