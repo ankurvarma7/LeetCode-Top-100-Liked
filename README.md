@@ -24,3 +24,4 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[64.Minimum Path Sum](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/64.%20Minimum%20Path%20Sum.py3)|Dynamic Programming|O(N^2)|O(N^2)
 |[295.Find Median from Data Stream](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/295.%20Find%20Median%20from%20Data%20Stream.py3)|Heap|O(Nlog(N))|O(N)
 |[25.Reverse Nodes in k-Group](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/25.%20Reverse%20Nodes%20in%20k-Group.py3)|Linked List Reversal|O(N)|O(k)
+|[94.Binary Tree Inorder Traversal](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/94.%20Binary%20Tree%20Inorder%20Traversal.py3)|Morris Traversal|O(N)|O(1)
