@@ -36,3 +36,4 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[198.House Robber](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/198.%20House%20Robber.py3)|Dynamic Programming|O(N)|O(N)
 |[142.Linked List Cycle II](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/142.%20Linked%20List%20Cycle%20II.py3)|Floyd's Cycle Detection Algorithm|O(N)|O(1)
 |[46.Permutations](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/46.%20Permutations.py3)|Backtracking|O(N!*N)|O(N)
+|[104.Maximum Depth of Binary Tree](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/104.%20Maximum%20Depth%20of%20Binary%20Tree.py3)|Tree Traversal|O(N)|O(N)
