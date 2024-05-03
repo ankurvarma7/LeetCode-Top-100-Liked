@@ -39,3 +39,4 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[104.Maximum Depth of Binary Tree](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/104.%20Maximum%20Depth%20of%20Binary%20Tree.py3)|Tree Traversal|O(N)|O(N)
 |[49.Group Anagrams](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/49.%20Group%20Anagrams.py3)|Miscellaneous|O(N)|O(N)
 |[138.Copy List with Random Pointer](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/138.%20Copy%20List%20with%20Random%20Pointer.py3)|Linked List with HashMap|O(N)|O(N)
+|[236.Lowest Common Ancestor of a Binary Tree](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py3)|Post Order Tree Traversal|O(N)|O(N)
