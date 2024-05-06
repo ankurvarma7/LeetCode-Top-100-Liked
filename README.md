@@ -45,3 +45,4 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[207.Course Schedule](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/207.%20Course%20Schedule.py3)|Topological Sort|O(V+E)|O(V)
 |[322.Coin Change](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/322.%20Coin%20Change.py3)|Dynamic Programming|O(N*amount)|O(N*amount)
 |[15.3Sum](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/15.%203Sum.py3)|Two Pointers|O(N^2)|O(1)
+|[153.Find Minimum in Rotated Sorted Array](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py3)|Binary Search|O(log N)|O(1)
