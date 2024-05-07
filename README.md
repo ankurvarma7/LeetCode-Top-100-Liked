@@ -46,3 +46,6 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[322.Coin Change](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/322.%20Coin%20Change.py3)|Dynamic Programming|O(N*amount)|O(N*amount)
 |[15.3Sum](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/15.%203Sum.py3)|Two Pointers|O(N^2)|O(1)
 |[153.Find Minimum in Rotated Sorted Array](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py3)|Binary Search|O(log N)|O(1)
+|[39.Combination Sum](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/39.%20Combination%20Sum.py3)|Backtracking|O(2^(target/min)|O(target/min)
+|[3.Longest Substring Without Repeating Characters](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py3)|Sliding Window|O(N)|O(N)
+|[199.Binary Tree Right Side View](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/199.%20Binary%20Tree%20Right%20Side%20View.py3)|Level Order Traversal|O(N)|O(N)
