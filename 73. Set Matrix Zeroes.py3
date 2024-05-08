@@ -1,23 +1,26 @@
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
-  
-        coordinates=set()
+        rowZero=False
         ROWS,COLS=len(matrix),len(matrix[0])
-        for i in range(ROWS):
-            for j in range(COLS):
-                if matrix[i][j]==0:
-                    coordinates.add((i,j))
+        for r in range(ROWS):
+            for c in range(COLS):
+                if matrix[r][c]==0:
+                    if r==0:
+                        rowZero=True
+                    else:    
+                        matrix[r][0]=0
+                    matrix[0][c]=0
+        
+        for r in range(1,ROWS):
+            for c in range(1,COLS):
+                if matrix[r][0]==0 or matrix[0][c]==0:
+                    matrix[r][c]=0
+                
 
-        def setRowZero(r):
-            for i in range(COLS):
-                matrix[r][i]=0
-
-
-        def setColZero(c):
-            for i in range(ROWS):
-                matrix[i][c]=0
-
-
-        for r, c, in coordinates:
-            setRowZero(r)
-            setColZero(c)
+        if matrix[0][0]==0:
+            for r in range(ROWS):
+                matrix[r][0]=0
+        
+        if rowZero:
+            for c in range(COLS):
+                matrix[0][c]=0
