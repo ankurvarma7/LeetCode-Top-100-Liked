@@ -50,3 +50,4 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[3.Longest Substring Without Repeating Characters](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py3)|Sliding Window|O(N)|O(N)
 |[199.Binary Tree Right Side View](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/199.%20Binary%20Tree%20Right%20Side%20View.py3)|Level Order Traversal|O(N)|O(N)
 |[73.Set Matrix Zeroes](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/commit/a7fd41369bf110a2ca172e152cec417bcf9a9512)|Miscellaneous|O(rows*cols)|O(1)
+|[200.Number of Islands](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/200.%20Number%20of%20Islands.py3)|Depth First Search|O(rows*cols)|O(rows*cols)
