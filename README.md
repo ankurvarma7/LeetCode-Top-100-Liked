@@ -52,3 +52,4 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[73.Set Matrix Zeroes](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/commit/a7fd41369bf110a2ca172e152cec417bcf9a9512)|Miscellaneous|O(rows*cols)|O(1)
 |[200.Number of Islands](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/200.%20Number%20of%20Islands.py3)|Depth First Search|O(rows*cols)|O(rows*cols)
 |[53.Maximum Subarray](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/53.%20Maximum%20Subarray.py3)|Kadane's Algorithm|O(N)|O(1)
+|[54.Spiral Matrix](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/commit/6f4c3a4872d0078793587ee775776407e69354e3)|Miscellaneous|O(rows*cols)|O(1)
