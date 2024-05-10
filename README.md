@@ -54,4 +54,5 @@ Solutions to all problems of LeetCode's Top 100 Liked problem list in Python3
 |[53.Maximum Subarray](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/53.%20Maximum%20Subarray.py3)|Kadane's Algorithm|O(N)|O(1)
 |[54.Spiral Matrix](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/commit/6f4c3a4872d0078793587ee775776407e69354e3)|Miscellaneous|O(rows*cols)|O(1)
 |[146.LRU Cache](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/146.%20LRU%20Cache.py3)|Miscellaneous|O(1)|O(capacity)
-|[]()|Trie|O(length of word*number of words)|O(length of word*number of words)
+|[208.Implement Trie (Prefix Tree)](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/208.%20Implement%20Trie%20(Prefix%20Tree).py3)|Trie|O(length of word*number of words)|O(length of word*number of words)
+|[76.Minimum Window Substring](https://github.com/ankurvarma7/LeetCode-Top-100-Liked/blob/main/76.%20Minimum%20Window%20Substring.py3)|Sliding Window and HashMap|O(m+n)|O(1)
